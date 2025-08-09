@@ -1,4 +1,3 @@
 dependencies:
-  eigen:
-    version: "=3.3.8"
-    repo: https://gitlab.com/libeigen/eigen.git
+  - version: "=3.3.8"
+    url: https://gitlab.com/libeigen/eigen.git
